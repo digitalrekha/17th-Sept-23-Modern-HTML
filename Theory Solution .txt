@@ -1,0 +1,79 @@
+Question 1. List out the features of HTML5
+Ans:HTML5 is the latest version of the HyperText Markup Language (HTML). The features of Html5 are:
+
+1. Semantic Elements: Semantic elements are the elements that provide more meaningful descriptions of the content of a web page. These elements help web browsers and search engines understand the structure and content of our page, which can improve the way our website is displayed and indexed. 
+
+For example, the <header> element is used to define the heading of a page, the <nav> element is used for navigation links, the <section> element is used to group related content
+
+2. Audio and Video Support: HTML5 allows us to embed audio and video files directly into your web pages without the need for third-party plugins. 
+To embed an audio file, we use the <audio> element, and to embed a video file, you we the <video> element. 
+
+3. Canvas Element: The <canvas> element allows us to draw graphics directly on an HTML page using JavaScript. This means we can create dynamic and interactive graphics, animations, and games without relying on external image files or plugins. 
+
+4. Local Storage: HTML5 introduces local storage, which allows our web application to store data on the user's computer using JavaScript. 
+
+5. Responsive Images: HTML5 provides new attributes for the <img> element, such as srcset and sizes, that allow us to specify different image sources for different screen sizes and device types.
+
+6. Drag and Drop API: The Drag and Drop API allows users to drag and drop elements from one part of a web page to another. This can be used for a variety of interactive features, such as uploading files, rearranging elements, and building web applications with drag-and-drop functionality.
+
+Question 2: What are HTML Entities? List out 5 commonly used HTML entities.
+Ans: HTML entities are special codes that represent certain characters in HTML. They are used to display characters that cannot be directly typed into an HTML document, such as reserved characters like < and >. Here are five commonly used HTML entities:
+
+&amp; - Ampersand (&)
+&lt; - Less than sign (<)
+&gt; - Greater than sign (>)
+&nbsp; - Non-breaking space
+&copy; - Copyright symbol (©)
+
+Question 3: Define accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups:
+Ans: Accessibility in web development refers to the practice of ensuring that websites are usable by people with disabilities. This includes people who have visual, auditory, motor, or cognitive impairments. 
+
+Reasons for creating accessible websites are: ethical and moral responsibility, SEO benefits, enhanced user experience.
+
+Benefits of accessible websites for different user groups:
+Visual impairments: Clear text, alt text, adjustable font size, and color contrast.
+Auditory impairments: Transcripts for audio content, adjustable volume.
+Motor impairments: Keyboard navigation, alternative input methods.
+Cognitive impairments: Clear and concise language, simple layouts.
+
+Question 4: List any 3 ways which help us in improving the accessibility of HTML
+Ans: 
+1. Use semantic elements such as <header>, <nav>, <section>, <article>, and <aside>. This helps screen readers and other assistive technologies understand the structure of the page.
+
+For example, instead of using <div> tags for everything, you should use the following tags to indicate the purpose of each section of content:
+
+<header>: The main heading of the page
+<nav>: Links to other pages or sections of the website
+<section>: A group of related content
+<article>: A self-contained piece of content
+<aside>: Additional content that is not essential to the main content of the page
+
+2. Provide alt text for images: Alt text is a brief description of an image that is informative and relevant to the surrounding content. It is used by screen readers to provide a description of the image to users who are blind or have low vision.
+
+For example, if you have an image of a cat, the alt text could be "A fluffy white cat sitting on a windowsill."
+
+3. Use clear and concise language: Avoid using jargon or technical terms that may be confusing to people with disabilities. Use simple language that is easy to understand.
+
+For example, instead of writing "Please enter your email address," you could write "Please enter your email."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
